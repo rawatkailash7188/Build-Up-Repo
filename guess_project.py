@@ -2,7 +2,7 @@ import random
 
 
 def start_game():
-    print("🎯 Welcome to the Number Guessing Game!")
+    print("🎯 Welcome to the Number Guessing Game!!!!!!!!!!")
     print("I'm thinking of a number between 1 and 100.")
 
     # The computer picks a random number
